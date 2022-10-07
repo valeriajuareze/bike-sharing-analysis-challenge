@@ -45,3 +45,6 @@ The purpose of the project is to convince investors that a bike-sharing program 
 ### Summary
 
 According to the previous visualizations, we can deduce that CitiBike is often used during labor hours, specifically, entry and exit time of workers, so the people in NYC think that a bike joruney is a better option than spend hours in traffick, which is converting in a necessity. So, for a further analysis, my recommendation is to first analize and compare the traffick between NYC and Des Moines, specifically during the labor hours, and finally, analize if Des Moines is an appropriate city to have a huge company of bike journeys such as CitiBike.
+
+## Tableau Project
+https://public.tableau.com/views/CitiBike-Analysis-Challenge/CitiBikeAnalysis?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link
